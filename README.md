@@ -125,5 +125,5 @@ Metadados para Zenodo
 •	Palavras-chave: Códigos da Fama, Influência Digital, Neuromarketing, C.E.L.E.B., TikTok, Águas Lindas
 •	Licença: CC BY 4.0
 •	Comunidade: Ciências Sociais, Neuromarketing, Tecnologia
-•	Relacionado: github.com/LissaSandiego/FameTrends2025
+Relacionado: Repositório: github.com/LissaSandiego/ciênciadosloops
 
